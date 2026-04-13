@@ -6,19 +6,23 @@
 
 **Q1 – Functional Preference: Which feature do you think would be more helpful for saving your planning time: the advanced multi-filter system or the automated DIY itinerary builder?** **A:** I’d definitely go with the **advanced multi-filter system**.
 
-- **Follow-up: Why do you think that specific feature is more valuable to you? In what situation would you use it the most?** \* **Response:** Honestly, I’m pretty picky about where I eat, and being able to sort by that food safety index is a huge value-add that I haven't seen in other apps. I’d probably use it the most the second I land in a new city and just want a quick, reliable list of spots that won't give me food poisoning before the trip even really starts.
+- **Follow-up: Why do you think that specific feature is more valuable to you? In what situation would you use it the most?** \*
+  **Response:** Honestly, I’m pretty picky about where I eat, and being able to sort by that food safety index is a huge value-add that I haven't seen in other apps. I’d probably use it the most the second I land in a new city and just want a quick, reliable list of spots that won't give me food poisoning before the trip even really starts.
 
 **Q2 – Usage Pattern: During a short trip (e.g., 3 days), are you more likely to follow the recommended route strictly, or do you prefer to frequently adjust the plan while you are on the go?** **A:** I am definitely the type to **frequently adjust the plan while I’m on the go**.
 
-- **Follow-up: What kind of unexpected situation (e.g., weather, fatigue, or finding a new place) usually makes you change your original plans?** \* **Response:** It’s usually a mix of weather and just plain old fatigue. If I’ve been walking around galleries or museums all day, my feet are going to be killing me, and I’ll probably ditch a "perfect" restaurant that’s 20 minutes away for something decent that’s right around the corner.
+- **Follow-up: What kind of unexpected situation (e.g., weather, fatigue, or finding a new place) usually makes you change your original plans?** \*
+  **Response:** It’s usually a mix of weather and just plain old fatigue. If I’ve been walking around galleries or museums all day, my feet are going to be killing me, and I’ll probably ditch a "perfect" restaurant that’s 20 minutes away for something decent that’s right around the corner.
 
 **Q3 – Workflow Preference: When using our platform, would you prefer to build a food itinerary from scratch using the DIY tool, or would you rather pick a shared route from another user and then modify it to fit your needs?** **A:** I’d much rather **pick a shared route from another user and then modify it**.
 
-- **Follow-up: What would make you trust a shared route enough to use it as your starting template?** \* **Response:** I’d trust a route if the person who shared it seems like they actually live there or if they’ve left really specific notes—like "don't bother with the dessert here, go to the shop next door instead." If it looks like a generic "Top 10" list, I’d probably skip it.
+- **Follow-up: What would make you trust a shared route enough to use it as your starting template?** \*
+  **Response:** I’d trust a route if the person who shared it seems like they actually live there or if they’ve left really specific notes—like "don't bother with the dessert here, go to the shop next door instead." If it looks like a generic "Top 10" list, I’d probably skip it.
 
 **Q4 – Value Validation: Does the combination of DIY route building and referencing shared itineraries make the planning process easier and more useful for users compared to traditional methods?** **A:** Yeah, I think it really does.
 
-- **Follow-up: What is the biggest thing traditional methods (like Google Maps or blogs) are missing that this platform successfully provides?** \* **Response:** The biggest thing Google Maps misses is the "flow" of the day. It gives you a bunch of pins on a map, but it doesn't help you visualize how those places actually fit together into a logical path. Your platform turns a list of places into an actual experience, which saves a lot of mental energy.
+- **Follow-up: What is the biggest thing traditional methods (like Google Maps or blogs) are missing that this platform successfully provides?** \*
+  **Response:** The biggest thing Google Maps misses is the "flow" of the day. It gives you a bunch of pins on a map, but it doesn't help you visualize how those places actually fit together into a logical path. Your platform turns a list of places into an actual experience, which saves a lot of mental energy.
 
 ---
 
