@@ -4,6 +4,8 @@
 
 ---
 
+## 1. Closed-ended Questions
+
 **Q1 – Functional Preference** Which feature do you think would be more helpful for saving your planning time: the advanced multi-filter system or the automated DIY itinerary builder?
 
 **Yuming Zhong:** I would definitely go with the advanced multi-filter system. When I’m looking for a place to eat, I usually have a specific vibe or rating in mind, and being able to quickly narrow down the results based on popularity and high ratings is a huge time-saver.
@@ -43,6 +45,8 @@
 **Yuming Zhong:** Traditional methods usually feel really fragmented; you’re constantly switching between different apps or blogs to get the full picture. This platform integrates everything into one spot, which makes the whole process more efficient and much easier to visualize.
 
 ⸻
+
+## 2. Open-ended Questions
 
 **Q5 – Trust & Social Factor** What would motivate you to share your own DIY route with other users, and what kind of details in a shared itinerary would make you trust another user’s recommendation?
 
